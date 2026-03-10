@@ -1,1 +1,2 @@
 Hola, soy el archivo de texto 1
+Hoy vamos a codificar un poco
